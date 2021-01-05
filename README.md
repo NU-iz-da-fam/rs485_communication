@@ -20,4 +20,4 @@ config485.c_oflag &= ~ONOEOT; // Prevent removal of C-d chars (0x004) in output 
 ```
 Comments are added beside code.
 
-## References: https://blog.mbedded.ninja/programming/operating-systems/linux/linux-serial-ports-using-c-cpp/
+References: https://blog.mbedded.ninja/programming/operating-systems/linux/linux-serial-ports-using-c-cpp/
