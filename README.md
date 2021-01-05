@@ -15,8 +15,8 @@ ls /dev/tty*
 ```
 If OS is Windows: Removes comment of these 2 lines:
 ```bash
-config485.c_oflag &= ~OXTABS; // Prevent conversion of tabs to spaces (NOT PRESENT ON LINUX)
-config485.c_oflag &= ~ONOEOT; // Prevent removal of C-d chars (0x004) in output (NOT PRESENT ON LINUX)
+config485.c_oflag &= ~OXTABS; 
+config485.c_oflag &= ~ONOEOT; 
 ```
 Comments are added beside code.
 
