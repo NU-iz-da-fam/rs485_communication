@@ -1,4 +1,4 @@
-# How to using RS485 Communication with Ubuntu and Windows
+# How to use RS485 Communication with Ubuntu and Windows
 This tutorial uses my own experiment and references through the internet to connect devices using RS485. My OS is Ubuntu 18.04. It's also easy to switch to Windows with some lines. Language is C++.
 # Process:
 1. Add libraries included C++ Library and Linux Library.
