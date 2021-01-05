@@ -2,7 +2,7 @@
 This tutorial uses my own experiment and references through the internet to connect devices using RS485. My OS is Ubuntu 18.04. It's also easy to switch to Windows with some lines. Language is C++.
 # Process:
 1. Add libraries included C++ Library and Linux Library.
-2. Establish connection and check wheter it's succesful or failed.
+2. Establish connection and check whether it's succesful or failed.
 3. Send command content and command size if the connection is okay.
 # Notes:
 Run as root to access thoroughly.
